@@ -39,7 +39,7 @@ header{
 
 .logo{
     font-size: 3rem;
-    color: blue;
+    color: red;
     font-weight: 800;
     cursor: pointer;
     transition: 0.5s ease;
@@ -56,4 +56,29 @@ nav a{
     font-weight: 500;
     transition: 0.3s ease;
     border-bottom: 3px solid transparent;
+}
+
+nav a:hover,
+nav a.active{
+    color: red;
+    border-bottom: 3px solid red;
+}
+
+@media(max-width: 995px){
+    nav{
+        position: absolute;
+        top: 100%;
+        right: 0;
+        width: 40%;
+        border-left: 3px solid red;
+        border-bottom: 3px solid red;
+        border-bottom-left-radius: 2rem;
+        padding: 1rem solid;
+        background-color: black;
+        border-top: 0.1rem solid black;
+    }
+
+    nav.active{
+        display: block;
+    }
 }
