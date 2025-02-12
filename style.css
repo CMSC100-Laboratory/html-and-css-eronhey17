@@ -11,7 +11,7 @@
 }
 
 html {
-    font-size: 62.5%;
+    font-size: 100;
     scroll-behavior: smooth;
 }
 
@@ -91,7 +91,6 @@ home-content h3{
 .home-img img {
     width: 30vw;
     border-radius: 50%;
-    box-shadow: 0 0 25px rgb(0, 60, 120);
 }
 
 .social-icons a {
