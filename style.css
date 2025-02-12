@@ -27,7 +27,7 @@ header {
     left: 0;
     width: 100%;
     padding: 1rem 9%;
-    background: rgba(0, 0, 0, 0.8);
+    background: #222;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -78,7 +78,7 @@ home .home-content h1{
     font-size: 6rem;
     font-weight: 700;
     line-height: 1.3;
-}
+}   
 span{
     color: rgb(0, 60, 120);
 }
