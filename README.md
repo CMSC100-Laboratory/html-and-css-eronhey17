@@ -1,7 +1,11 @@
 ○ Eron Jay H. Matira
+
 ○ BS Computer Science
+
 ○ Exercise 2 - HTML and CSS
+
 ○ Title: Create your own GitHub Page from HTML and CSS
+
 ○ [Live Website link](https://cmsc100-laboratory.github.io/html-and-css-eronhey17/)
 
 ○ Steps on how to create GitHub page
